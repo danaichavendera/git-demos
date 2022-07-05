@@ -1,2 +1,5 @@
 Welcome to Git Basics
 Hello again
+Lunch time yay
+Back and ready for work!
+Hopefully it runs well this time
